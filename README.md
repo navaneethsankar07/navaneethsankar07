@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navaneeth Sankar</h1>
 <h3 align="center">Web developer </h3>
-###
+
 <h2 align="left">The Human Behind the Screen</h2>
 
 ###
@@ -13,7 +13,7 @@
 
 ###
 
-<h2 align="left">My Portfolio : <a href="https://navaneeth.co/"></a> </h2>
+<h2 align="left">My Portfolio : <a href="https://navaneeth.co/">navaneeth.co</a> </h2>
 
 ###
 
