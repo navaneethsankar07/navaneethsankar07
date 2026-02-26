@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👋 Hello! I'm Navaneeth — a passionate self-learner.<br><br>🎓 I'm 18 years old and currently diving deep into Django and React development.<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📚 I’ve also worked with C, C++, Java, JavaScript, MongoDB, Node.js, Express, DRF, Celery, PostgreSQL, Tanstack,  and I’m always eager to learn more.<br><br>🎹 When I'm not coding, you'll find me playing the keyboard.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href="https://docs.google.com/spreadsheets/d/1BOeUl8nm1CIL7_PzeaL0A1pgelT4ZP7YGcgomu6SVds/edit?usp=sharing"> navaneeth.co </a>
+<p align="left">👋 Hello! I'm Navaneeth — python developer.<br><br>🎓 I'm 18 years old and currently diving deep into Django and React development.<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📚 I’ve also worked with C, C++, Java, JavaScript, MongoDB, Node.js, Express, DRF, Celery, PostgreSQL, Tanstack,  and I’m always eager to learn more.<br><br>🎹 When I'm not coding, you'll find me playing the keyboard.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href="https://docs.google.com/spreadsheets/d/1BOeUl8nm1CIL7_PzeaL0A1pgelT4ZP7YGcgomu6SVds/edit?usp=sharing"> navaneeth.co </a>
 </h1>
 
 ###
