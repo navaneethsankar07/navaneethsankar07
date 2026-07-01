@@ -1,91 +1,125 @@
-<h1 align="center">Hi 👋, I'm Navaneeth Sankar</h1>
+<h1 data-importer="text" align="center">Hi 👋, I'm Navaneeth Sankar</h1>
 
 ###
 
-###
-
-<br clear="both">
-
-<h2 align="left">Web Developer<br><br><br>The Human Behind the Screen</h2>
+<h2 data-importer="text" align="center">Full-Stack Developer | Python • Django • React</h2>
 
 ###
 
-<br clear="both">
+<h2 data-importer="text" align="left">📖 About Me</h2>
 
-<img align="right" height="257" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnliMmV3dHFqdjI4bnlzaHp2OXM4ZnMxNW1zZDFsM20ycjVzcGFhayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+###
+ 
+<img  data-importer="image" align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmkzMzlicWJyaXVremZ0bDBtNzJzODZtY3Bha3p0c242endpNHlzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+<img width="20" />
+
+<p data-importer="text" align="left">I build full-stack web applications using modern technologies, with a focus on creating reliable and scalable solutions.<br><br>- 💻 Building applications with Django, React, and PostgreSQL<br><br>- 🔧 Developing REST APIs using Django REST Framework<br><br>- ⚡ Working with Redis, Celery, and asynchronous task processing<br><br>- 🏗️ Exploring Microservices, gRPC, and distributed systems<br><br>- 🐳 Learning Docker, CI/CD, and modern deployment workflows<br><br>- 🌱 Continuously learning new technologies and building real-world projects<br><br>- ⌨️ Maintain a typing speed of **115+ WPM**, supporting efficient development and technical documentation<br><br>- 🎹 Outside of coding, I enjoy playing the keyboard</p>
 
 ###
 
-<p align="left">👋 Hello! I'm Navaneeth — python developer.<br><br>🎓 I'm 18 years old and currently diving deep into Django and React development.<br><br>💡 I love building clean, functional web apps and exploring powerful backend technologies.<br><br>📚 I’ve also worked with C, C++, Java, JavaScript, MongoDB, Node.js, Express, DRF, Celery, PostgreSQL, Tanstack,  and I’m always eager to learn more.<br><br>🎹 When I'm not coding, you'll find me playing the keyboard.<br><br>📈 I believe in learning by doing and improving step-by-step.</p><br><br><h1>My Portfolio:<a target="_blank" href="https://docs.google.com/spreadsheets/d/1BOeUl8nm1CIL7_PzeaL0A1pgelT4ZP7YGcgomu6SVds/edit?usp=sharing"> navaneeth.co </a>
-</h1>
+<h2 data-importer="text" align="left">🛠️ Tech Stack</h2>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="42" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="42" alt="django logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="42" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="42" alt="css logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="42" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="42" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="42" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="42" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="42" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="42" alt="ubuntu logo"  />
-    <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
-  <img width="12" />
- <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="30" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="41" alt="python logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="41" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="41" alt="django logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="41" alt="react logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" height="41" alt="vite logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="41" alt="redux logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="41" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="41" alt="sqlite logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="41" alt="git logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="41" alt="linux logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="41" alt="docker logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="41" alt="kubernetes logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" height="41" alt="githubactions logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=black&style=for-the-badge" height="41" alt="rabbitmq logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="41" alt="amazonwebservices logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=white&style=for-the-badge" height="41" alt="nginx logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="41" alt="redis logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge" height="41" alt="pytest logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="41" alt="figma logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="41" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=white&style=for-the-badge" height="41" alt="solid logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="41" alt="npm logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="41" alt="nodejs logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="41" alt="vercel logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="41" alt="postman logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="41" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="41" alt="css logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="41" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="41" alt="tailwindcss logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="41" alt="ubuntu logo"  />
 </div>
 
 ###
 
-<div align="left">
+<h2 data-importer="text" align="left">📊 GitHub Stats</h2>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=navaneethsankar07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">📫 Connect With Me</h2>
+
+###
+
+<div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/navaneethsankar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="106" height="64" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="78" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/NavaneethSankar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="106" height="64" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="78" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/_.navaneeth.s._/?igsh=bzN3czJyenR5eG55#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="106" height="64" alt="instagram logo"  />
+  <a href="https://www.instagram.com/_.navaneeth.s._/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="78" height="40" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=navaneethsankar07&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
