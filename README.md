@@ -2,7 +2,7 @@
 
 ###
 
-<h2 data-importer="text" align="center">Full-Stack Developer | Python • Django • React</h2>
+<h2 data-importer="text" align="center">Full-Stack Developer | Python • JavaScript • Django • React</h2>
 
 ###
 
