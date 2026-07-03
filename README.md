@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://s3.ezgif.com/tmp/ezgif-330db6a677c8210f.gif" alt="Banner GIF" width="100%" />
+</div>
 <h1 data-importer="text" align="center">Hi 👋, I'm Navaneeth Sankar</h1>
 
 ###
