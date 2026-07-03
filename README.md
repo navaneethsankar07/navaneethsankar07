@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Banner GIF" height="300" width="100%" />
+</div>
 <h1 data-importer="text" align="center">Hi 👋, I'm Navaneeth Sankar</h1>
 
 ###
