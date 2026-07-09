@@ -92,9 +92,10 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="![navaneethsankar07's GitHub Stats](https://readme-stats-github.pages.dev/api?username=navaneethsankar07&theme=dark)" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=navaneethsankar07&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<div data-importer="stats" align="">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/navaneethsankar07?cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false&Title=FFFFFF&Text=FFFFFF&Ring=EB5454&borderRadius=10&" height="170"  alt="stats graph"  />
+  <img width='50' />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=navaneethsankar07&theme=dark&border_radius=10&card_width=500&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
 </div>
 
 ###
