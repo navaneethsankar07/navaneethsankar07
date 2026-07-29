@@ -88,7 +88,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">📊 GitHub Stats</h2>
+<h2 data-importer="text" align="left">GitHub Stats</h2>
 
 ###
 
