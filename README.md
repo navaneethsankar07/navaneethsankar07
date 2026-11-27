@@ -93,19 +93,19 @@
 ###
 
 <div data-importer="stats" align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="170"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=500&card_height=170&ring=EB5454" height="170"  alt="stats graph"  />
   <img width='100' />
-  <img src="https://streak-stats.demolab.com?user=navaneethsankar07&theme=highcontrast&hide_border=true&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=navaneethsankar07&theme=vision-friendly-dark&hide_border=true&width=500&border_radius=10&card_width=450&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
 </div>
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/snake-output/snake.svg" alt="Snake animation" />
+<img data-importer="snake" src="https://raw.githubusercontent.com/navaneethsankar07/navaneethsankar07/snake-output/snake.svg" width="1300" alt="Snake animation" />
 
 ###
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
