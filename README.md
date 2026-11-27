@@ -93,9 +93,9 @@
 ###
 
 <div data-importer="stats" align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=slateorange&border_radius=10&card_width=400&card_height=170&ring=EB5454&show_icons=true&hide_border=true&count_private=true" height="170"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="170"  alt="stats graph"  />
   <img width='100' />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=navaneethsankar07&theme=dark&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=navaneethsankar07&theme=highcontrast&hide_border=true&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
 </div>
 
 ###
