@@ -93,7 +93,7 @@
 ###
 
 <div data-importer="stats" align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=4700&card_height=170&ring=EB5454" height="170"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&border_radius=10&card_width=470&card_height=170&ring=EB5454" height="170"  alt="stats graph"  />
   <img width='30' />
   <img src="https://streak-stats.demolab.com?user=navaneethsankar07&theme=vision-friendly-dark&hide_border=true&width=450&border_radius=10&card_width=420&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
 </div>
