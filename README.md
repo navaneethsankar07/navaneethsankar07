@@ -93,7 +93,7 @@
 ###
 
 <div data-importer="stats" align="">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/navaneethsankar07?cardType=level&theme=dark&fontFamily=42dot%20Sans&preferLogin=false&Title=FFFFFF&Text=FFFFFF&Ring=EB5454&borderRadius=10&" height="170"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=navaneethsankar07&theme=slateorange&border_radius=10&card_width=400&card_height=170&ring=EB5454&show_icons=true&hide_border=true&count_private=true" height="170"  alt="stats graph"  />
   <img width='30' />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=navaneethsankar07&theme=dark&border_radius=10&card_width=400&card_height=170&ring=EB5454" height="180" alt="streak graph"  />
 </div>
